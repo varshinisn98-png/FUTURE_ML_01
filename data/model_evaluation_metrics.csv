@@ -1,0 +1,7 @@
+Model,MAE,RMSE,MAPE (%),R2 Score
+Linear Regression,68.81,85.77,4.69,0.5032
+Ridge Regression,69.36,86.32,4.73,0.4967
+Random Forest,78.73,102.65,5.24,0.2883
+LightGBM,81.82,106.82,5.42,0.2293
+XGBoost,87.27,112.64,5.79,0.1431
+SARIMAX,102.13,125.09,6.79,-0.0569
