@@ -116,7 +116,7 @@ Models were evaluated on a 90-day out-of-sample holdout test set (chronological 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/FUTURE_ML_01.git
+git clone https://github.com/varshinisn98-png/FUTURE_ML_01.git
 cd FUTURE_ML_01
 ```
 
