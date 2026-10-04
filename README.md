@@ -131,7 +131,13 @@ Execute `main.py` to generate data, engineer features, train all models, evaluat
 python main.py
 ```
 
-### 4. Explore Jupyter Notebook
+### 4. Launch Interactive Web Dashboard
+Launch the interactive Streamlit web dashboard interface:
+```bash
+streamlit run app.py
+```
+
+### 5. Explore Jupyter Notebook
 Open and run the pre-rendered Jupyter notebook:
 ```bash
 jupyter notebook notebooks/FUTURE_ML_01_Sales_Forecasting.ipynb
